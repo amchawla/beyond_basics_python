@@ -6,4 +6,4 @@ password =input("Please enter password: ")
 while correct_password != password:
     password = input("wrong password! Enter Again: ")
 
-print("Hi %s %s, you are logged In"  % (name,surname))
+print("Hi %s %s, you are logged In successfully"  % (name,surname))
